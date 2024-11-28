@@ -1,16 +1,12 @@
 [
   {
     "name": "FSN Threat Management",
-    "age": 38,
-    "country": "USA",
-    "occupation": "Devops Engineer",
-    "salary": 3000
+    "country": "Bangladesh",
+    "case": 1200
   },
   {
     "name": "FSN Threat Response",
-    "age": 32,
-    "country": "USA",
-    "occupation": "Software Engineer",
-    "salary": 3500
+    "country": "Bangladesh",
+    "case": 5
   }
 ]
